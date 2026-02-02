@@ -1,0 +1,113 @@
+// 1️⃣ Array
+
+//01) Create, access, update ✅
+
+// 01) Push, pop, shift, unshift ✅
+
+// Map, filter, (reduce) ✅
+
+// Date - 01/21/2026
+// 02) Sort, reverse ✅
+
+//Date -  01/22/2026
+// Find, findIndex, includes, indexOf
+
+// Remove duplicates & Unique Array, frequency, ✅
+
+//
+// Max, min, second largest/smallest ✅
+
+
+
+// Flatten, rotate, partition odd/even
+
+// Move zeros ✅
+//  palindrome check 
+
+
+
+
+
+
+// let arr = [1,2,43,6,43,65,7]
+
+// for(let num of arr){
+//     let Max;
+//     let secondMax;
+
+//     if(num > Max){
+//         secondMax = Max
+//         Max = num
+//     } else if(num > secondMax && num < Max){
+//         secondMax = num
+//     }
+// }
+// console.log(Max);
+
+
+//////////////////
+// 1️⃣ Array basics (foundation)
+
+// Ye 100% aana chahiye:
+
+// push / pop
+
+// shift / unshift
+
+// length
+
+// indexOf / includes
+
+// slice vs splice
+
+// concat
+
+// join
+
+// 2️⃣ Traversal (VERY IMPORTANT)
+// for
+// for...of
+// forEach
+// forEach me break kyu nahi hota?
+
+
+// 3️⃣ Reverse array (✔️ tumne kiya)
+
+// Different ways:
+
+// loop
+
+// reduce
+
+// two pointer //////////
+
+// built-in (reverse())
+
+//4️⃣ Find max / min / second max
+//5️⃣ Sum of array > using loop and reduce
+
+// ✅ LEVEL 2 — MOST ASKED (service + startup)
+// 6️⃣ Remove duplicates
+// object
+// Set
+// filter
+// 7️⃣ Frequency count
+// 8️⃣ Move zeros / negatives
+// [1,0,2,0,3] → [1,2,3,0,0]
+// Concept:
+// two pointer
+// position tracking
+
+// 9️⃣ Sort array (without built-in)
+// 🔟 Merge two arrays
+
+// ✅ LEVEL 3 — STARTUP FAVORITES
+
+// 11️⃣ Two Sum/
+// 12️⃣ Subarray problems
+// 13️⃣ Rotate array
+// 14️⃣ Intersection of arrays
+// level 4
+// 15️⃣ Chunk array
+// 6️⃣ Flatten array
+// 7️⃣ Missing number

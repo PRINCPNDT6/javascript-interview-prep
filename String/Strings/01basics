@@ -1,0 +1,38 @@
+
+// 1️⃣ String basics (already done 👍)
+
+// length
+
+// split()
+
+// join()
+
+// toUpperCase() / toLowerCase()
+
+// trim()
+
+// slice() / substring()
+
+// 2️⃣ Reverse string (✔️ done) with (function)
+
+// Interview me ye variations puchte hain:
+
+// full string reverse
+
+// word reverse
+
+// character reverse
+
+// using loop
+
+// using reduce 
+ 
+// 4️⃣ Count frequency (🔥🔥🔥) (✔️ done)
+// 5️⃣ Duplicate characters / words (✔️ done)
+// 9️⃣ Remove duplicates from string (✔️ done)
+//  7 Capitalize first letter (✔️ done)
+// 6️⃣ Longest word in string
+ 
+// 3️⃣ Palindrome ❗ (very important)
+// 8️⃣ Anagram (🔥 startup fav)
+// 🔟 Count vowels / consonants
