@@ -18,9 +18,9 @@ sortArray.sort((a, b) => a-b )
 
 // like 2-4 => -2 , no swap
 // 4-2 => 2, positive SWAP , b pahle 
-// 2-7 => -5, no swap
+// 4-7 => -3, no swap
 // 7-4 => 3 , swap , b pahle 
-// is 2 -2 => 0 no swap 
+// is 7-1 => 6, b phle abhi 1 swap hota hua sbse aage jayga 
 
 // console.log(sortArray);
 

@@ -49,3 +49,9 @@ console.log(revSentencs);
 // console.log(typeof revSentencs);
 
 // const rev = arr => arr.reduce((a,v)=>[v,...a],[])
+
+
+// let str = "hello";
+
+// let rev = str.split("").reduce((a, c) => c + a, "");
+// console.log(rev); // "olleh"

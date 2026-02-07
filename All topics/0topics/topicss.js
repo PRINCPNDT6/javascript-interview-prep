@@ -11,19 +11,19 @@
 // total 23: Topics or cencepts
 // JAVASCRIPT INTERVIEW ROADMAP (COMPLETE)
 // 🟢 PHASE 1 — CORE JS (⚠️ MUST)
-// 1️⃣ Execution Context (सबकी जड़)
+// 1️⃣ Execution Context (सबकी जड़) ✅
 
 // Iske bina kuch samjh nahi aayega
 
-// Global Execution Context
+// Global Execution Context {}
 
-// Function Execution Context
+// Function Execution Context fncs(){                    }
 
 // Call Stack
 
 // 👉 Ye samjh aa gaya to:
 
-// hoisting
+// hoisting 
 
 // this
 
@@ -32,7 +32,7 @@
 // TDZ
 // sab easy ho jaate hain
 
-// 2️⃣ Hoisting ❗❗
+// 2️⃣ Hoisting ❗❗  ✅
 
 // var hoist hota hai (undefined)
 
@@ -46,7 +46,7 @@
 
 // runtime error
 
-// 4️⃣ Scope
+// 4️⃣ Scope ✅
 
 // Global
 
@@ -70,11 +70,11 @@
 
 // Used in:
 
-// data hiding
+// data hiding.......
 
 // currying
 
-// debouncing
+// debouncing..........
 
 // 🟢 PHASE 2 — FUNCTIONS DEEP DIVE
 // 6️⃣ Currying
@@ -123,7 +123,7 @@
 
 // Microtask Queue
 
-// 1️⃣2️⃣ Promises
+// 1️⃣2️⃣ Promises ✅
 
 // .then()
 
@@ -131,7 +131,7 @@
 
 // .finally()
 
-// 1️⃣3️⃣ async / await 🔥🔥🔥
+// 1️⃣3️⃣ async / await 🔥🔥🔥 ✅
 
 // promise wrapper
 
@@ -148,7 +148,7 @@
 // Promise.any
 
 // 🟢 PHASE 4 — BROWSER + API
-// 1️⃣5️⃣ APIs (fetch)
+// 1️⃣5️⃣ APIs (fetch) 
 // fetch(url)
 
 
@@ -212,7 +212,7 @@
 
 // import / export
 
-// CommonJS vs ES Module
+// CommonJS vs ES Module////////////////////////
 
 // 🎯 SERVICE BASED COMPANY FOCUS
 
